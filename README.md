@@ -1,3 +1,3 @@
 # Crashers-Travel-website
 
-{Crafted a captivating frontend travel website }
+Crafted a captivating frontend travel website 
