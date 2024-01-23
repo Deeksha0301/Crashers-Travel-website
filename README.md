@@ -19,7 +19,7 @@ Welcome to Crashers, where the world of travel comes alive through a captivating
 ## How to Explore:
 
 1. **Clone the Repository:**
-   - Clone or download the project repository from [GitHub](your-github-repo-link).
+   - Clone or download the project repository from [GitHub](https://github.com/Deeksha0301/Crashers-Travel-website).
 
 2. **Navigate to Project Directory:**
    - Open a terminal or command prompt and navigate to the directory where the project is located.
